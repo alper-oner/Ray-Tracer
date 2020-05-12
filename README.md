@@ -6,12 +6,12 @@
 
 
 # Usage
-- Open AlperOnerAssg4.sln
+- Open raytracer.sln
 - Make sure it's in release x64
 - Run
 - Open ./x64/Release and add input file
 - Open Cmd and run the code below (This program will accept an argument.) 
-    `AlperOnerAssg4.exe test1.in`
+    `raytracer.exe ../../test1.in`
 - Note: Don’t forget to add the input file to argument.
 
 # Example
